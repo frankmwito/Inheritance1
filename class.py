@@ -1,0 +1,1 @@
+# Class multiple inheritance
