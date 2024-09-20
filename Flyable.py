@@ -1,0 +1,2 @@
+# Flyable multiple inheritance
+
